@@ -91,8 +91,6 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
-### NAME: HAREVASU S
-### REG NO: 212223230069
 ```
 #include "main.h"
 TIM_HandleTypeDef htim2;
